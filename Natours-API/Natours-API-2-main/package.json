@@ -8,7 +8,7 @@
     "start:prod": "SET NODE_ENV=production&&supervisor server.js",
     "debug": "ndb server.js"
   },
-  "author": "Marwan Yasser",
+  "author": "mohamed shehta",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
